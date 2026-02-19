@@ -28,6 +28,7 @@ Not yet adapted for small screens like `Android` and `iOS`
 ## License
 
 All rights reserved © 2026 [FangHao.lin / 感莓新域制作组]
+
 This web page template complies with [`General Public License v3`](./LICENSE) agreement
 
 ## Additional usage restrictions
