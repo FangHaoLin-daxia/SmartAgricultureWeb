@@ -40,6 +40,7 @@ This web page template complies with [`General Public License v3`](./LICENSE) ag
 4. After the competition ends, the scope of use will be adjusted in a separate announcement; if no announcement is made, the provisions of this supplemental clause shall still apply.
 
 ## Finished product drawing
+
 <img width="640" height="320" alt="3" src="https://github.com/user-attachments/assets/407198ca-60ac-49be-b7b9-9fa316e03888" />
 
 
