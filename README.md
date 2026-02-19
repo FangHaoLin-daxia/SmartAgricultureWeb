@@ -36,7 +36,7 @@ This web page template complies with [`General Public License v3`](./LICENSE) ag
 ##### This project is currently intended for competition purposes. Before the conclusion of the competition, the supplemental permissions are as follows:
 1. This project may only be used for personal learning, research, and non-commercial purposes;
 2. Any commercial use, commercial derivatives, or commercial distribution is prohibited;
-3. It is prohibited to use this project for other competitions, roadshows, applications, awards, or other competitive activities;
+3. This project is prohibited from being used for other competitions, roadshows, applications, awards, or similar activities.;
 4. After the competition ends, the scope of use will be adjusted in a separate announcement; if no announcement is made, the provisions of this supplemental clause shall still apply.
 
 ## Finished product drawing
