@@ -1,5 +1,5 @@
 ##### 语言切换 | Language Switch
-简体中文 | [English](README_EN.md)
+简体中文 | [English](README.md)
 
 # 智慧农业管理系统——前端网页模板
 
